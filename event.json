@@ -1,0 +1,12 @@
+{
+  "branch_name": "master",
+  "result": "failed",
+  "commit": {
+    "id": "ce03782d581ed985caf9c479173a14962b0fe941",
+    "url": "https://github.com/kevineo",
+    "author_name": "kevineo",
+    "author_email": "kevin.eugene.ong@gmail.com",
+    "message": "Add index.js",
+    "timestamp": "time.now"
+  }
+}
